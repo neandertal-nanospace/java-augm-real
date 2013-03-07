@@ -12,7 +12,7 @@ Minor improvements have been included.
 For now it is possible to detect the ARMarkers in a frame.
 
 
-Copyright: none. This is distributed under "Absolutely Free" licence. This licence allows you to
+Copyright: none. This is distributed under "Absolutely Free" license. This license allows you to
 do anything with the provided resources (including, but not limited to - copy, modify, sell, rent, delete,
 provide as part of commercial software, present as own work, burn, trow into space, etc.).
 Nothing is requested in return, not even to cite the author or the original.
